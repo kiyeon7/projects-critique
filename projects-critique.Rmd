@@ -1,5 +1,5 @@
 ---
-title: "Milestone 3 - Final Project critiques"
+title: "Milestone 3 - Gov50 Final Project critiques"
 author: "Kiyeon Lee"
 date: "2/19/2021"
 output: html_document
@@ -9,10 +9,10 @@ output: html_document
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Gov50-Data Final Project Critiques
 
 
-Project 1
+
+## Project 1
 Belinda Hu: How Startups Can Thrive in the US.
 https://belinda-hu.shinyapps.io/us-startup-success/
 
@@ -21,7 +21,7 @@ Some suggestions for improvement include clarifying the meaning of the table wit
 
 
 
-Project 2
+## Project 2
 Katherine McPhie: Social Connectedness in the Harvard Class of 2024.
 https://kmcphie.shinyapps.io/Social_Connections_2024/
 
