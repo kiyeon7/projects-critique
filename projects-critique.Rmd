@@ -1,0 +1,34 @@
+---
+title: "Milestone 3 - Final Project critiques"
+author: "Kiyeon Lee"
+date: "2/19/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Gov50-Data Final Project Critiques
+
+
+Project 1
+Belinda Hu: How Startups Can Thrive in the US.
+https://belinda-hu.shinyapps.io/us-startup-success/
+
+Overall this project provides useful conclusions about startup success. The data analysis cleraly shows that location, industry, and timing of startups are vital. THe project shows informative graphs of top-funded industrie. Users are able to click interactively on different industries and cities. The key takeaways were helpful. 
+Some suggestions for improvement include clarifying the meaning of the table with logical regression, which I don't understand the meaning of and drew different conclusions from the graph. I would also make the graphs, and text more aesthetic and easier to read. It makes clear that dorm locations has a big effect. The other sections on connectedness and satisfaction provide additional interesting insights as well. It's nice that the technical details are on a different page.
+
+
+
+Project 2
+Katherine McPhie: Social Connectedness in the Harvard Class of 2024.
+https://kmcphie.shinyapps.io/Social_Connections_2024/
+
+
+This project is nicely designed with a clear title and nice image. The methods are clearly listed on the first page. As I'm confused by the probabilities discussed in the model, I'd appreciate a simpler explanation as well.  The interactive Social Web is quite impressive and enables users to focus on one area. A suggestion for improvement would be to explain potential reasons for the relationships among the nodes. 
+
+
+
+This repo URL: https://github.com/kiyeon7/projects-critique.git 
+
